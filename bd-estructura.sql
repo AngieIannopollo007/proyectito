@@ -1,7 +1,3 @@
-create database canaldetelevision;
-
-use canaldetelevision;
-
 create table novelas(
     id_novelas int primary key,
     nombre varchar(20) not null,
